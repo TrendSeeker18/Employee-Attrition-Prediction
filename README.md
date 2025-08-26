@@ -1,4 +1,3 @@
-That's an excellent breakdown of the project! Based on the provided information, here's a detailed README file for the "Employee Attrition Prediction & Insights" repository.
 
 Employee Attrition Prediction & Insights 📉
 Overview
